@@ -1,7 +1,5 @@
-# Project Title
-Ferrari and Pup
+# Ferrari and Pup
 
-## Authors
 Roelof de Groot, potatoDie
 
 ## Description
