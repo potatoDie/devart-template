@@ -1,4 +1,4 @@
-##Post 1
+##Initial post
 
 There isn't much time left. 5 days. So hurry!
 
