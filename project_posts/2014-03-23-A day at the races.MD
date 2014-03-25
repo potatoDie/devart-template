@@ -1,4 +1,4 @@
-## Interaction after all
+##Interaction after all
 
 All gloominess set aside, let's not forget it should be fun! So the new setup includes interaction. Not only to the system, but also
 (maybe annoyingly so) to/with the other visitors. 
