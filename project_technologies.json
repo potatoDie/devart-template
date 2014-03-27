@@ -1,16 +1,14 @@
 {
     "technologies": {
         "apis": [
-            "Web Speech",
-            "Google Plus"
+           
         ],
         "platforms": [
-            "GSAP"
+            "Google Chrome"
         ],
         "toolkits": [
-            "paper.js",
-            "vector.js",
-            "Homebrew"
+            "GSAP",
+            "vector.js"
         ]
     },
     "themes": [
