@@ -1,0 +1,56 @@
+@import url(http://fonts.googleapis.com/css?family=Open+Sans:300,400,500);
+/* Web Fonts @import */
+body {
+  margin: 0; }
+
+p {
+  font: 400 normal 0.8em/1 "Open Sans", sans-serif;
+  margin-left: 1em; }
+
+#global-container {
+  width: 100%;
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 0;
+  position: relative; }
+
+.square_wrapper {
+  width: 100%;
+  padding-bottom: 100%;
+  position: relative;
+  background: #335; }
+  .square_wrapper .padder {
+    margin: 1px;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background: #000; }
+
+svg {
+  width: 100%;
+  height: 100%;
+  /* To get the svg on top of the canvas */
+  position: relative;
+  display: none;
+  z-index: 1; 
+}
+
+svg path#curve {
+  fill: none;
+  stroke: #000;
+  stroke-width: 0;
+  stroke-dasharray: 5,5; }
+
+svg #arrow {
+  fill: #d21;
+  stroke: #000;
+  stroke-width: 1; }
+
+#trailCanvas {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  /*background: #000;*/ }
