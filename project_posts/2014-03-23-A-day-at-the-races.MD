@@ -16,8 +16,7 @@ the car if you say 'ieh', instead of 'Vroammm'.
 There's a shoutbox for each car.
 
 What about the not-so-low cultural part?
-There's a second screen on top of the race track. And this one displays spirographical imagery, based on the position/speed
-of the car. Also depending on the shouting in the box.
+There's a second screen on top of the race track. And this one displays spirographical imagery, based on the position/speed of the car. Also depending on the shouting in the box.
 
 So, you see, there's beauty in everything. Even in that horrible a capella motor noise.
 
