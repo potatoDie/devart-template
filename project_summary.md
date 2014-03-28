@@ -19,7 +19,7 @@ What I have in mind is illustrated with a mix of the following:
 function run () {
 
   for ( var i = 0; i < iterations; i++ ) {
-	  Ferrari.move();
+	Ferrari.move();
   	Puppy.update();
   };
   
