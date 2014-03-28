@@ -18,6 +18,4 @@ and the code reacts. But I have a preference for more random input. Following an
 or a robot making his round, avoiding running into the human visitors (dressed up like security staff). So the data is
 not random per se, but has a lot of randomness in it. 
 
-It could also be data from another time, another place. I don't insist 
-to stress
-the here and now. Rather present a global view.
+It could also be data from another time, another place. I don't insist to stress the here and now. Rather present a global view.
